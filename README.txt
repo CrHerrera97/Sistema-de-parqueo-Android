@@ -12,4 +12,4 @@ ParkingSystem\app\src\main\res\layout
 
 AUTOR: CRISTIAN HERRERA
 
-LINKEDIN: https://www.linkedin.com/in/christian-ricardo-herrera-rodriguez-72a882169/
+LINKEDIN: https://www.linkedin.com/in/herrera-christian/
